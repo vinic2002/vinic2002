@@ -6,6 +6,10 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-SQL" height="30" width="40" src="https://github.com/user-attachments/assets/353acfb4-1908-43f9-956a-76bf817a84fb">
+  <img align="center" alt="Vini-Power BI" height="30" width="40" src="https://github.com/user-attachments/assets/33173722-18a6-4b78-bbb5-080bb349f369" >
+
+
 
   
 </div>
